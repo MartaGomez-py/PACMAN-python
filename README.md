@@ -1,4 +1,4 @@
-# PACMAN-python 👻
+# PACMAN-python
 
 Implementación del clásico juego Pac-Man desarrollada como proyecto
 de la asignatura de Programación Orientada a Objetos del Grado en
