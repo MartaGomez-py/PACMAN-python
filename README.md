@@ -25,10 +25,14 @@ Python y los principios de programación orientada a objetos.
 - Python 3.x
 - Pyxel
 
-Instala Pyxel con:
 
+##Autores
+Proyecto académico desarrollado para la UC3M.
+Marta Gómez García
+
+Instala Pyxel con:
 ```bash
 pip install pyxel
-## Autores
+bash
 
-Proyecto académico desarrollado para la UC3M.
+
