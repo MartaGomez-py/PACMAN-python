@@ -26,7 +26,7 @@ Python y los principios de programación orientada a objetos.
 - Pyxel
 
 
-##Autores
+## Autores
 Proyecto académico desarrollado para la UC3M.
 Marta Gómez García
 
